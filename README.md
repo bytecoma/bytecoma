@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Maitree Pandey</h1>
-<h3 align="center">Aspiring Full Stack Developer | AI-ML Enthusiast | Intern @ Stylo</h3>
+<h3 align="center">Developer | Problem Solver | Future-Ready Engineer</h3>
+
 
 ---
 
